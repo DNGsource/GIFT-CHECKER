@@ -3,7 +3,7 @@ user_agent
 requests
 sqlalchemy
 asyncio
-kvsqlite
+telethon kvsqlite
 datetime
 time
 random
