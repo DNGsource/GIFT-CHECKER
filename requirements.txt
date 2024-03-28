@@ -3,7 +3,7 @@ user_agent
 requests
 sqlalchemy
 asyncio
-kvsqlite
 datetime
 time
 random
+git+https://github.com/AYMENJD/Kvsqlite
