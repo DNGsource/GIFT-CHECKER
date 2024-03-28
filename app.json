@@ -1,0 +1,35 @@
+{
+    "name": "Premium Bot Checker",
+    "description": " اهلا بكم في تنصيب بوت فحص السحوبات !",
+    "stack": "container",
+    "repository": "https://t.me/mmmon",
+    "keywords": [
+        "Premium",
+        "Premium Bot",
+        "telegrambot",
+        "Checker"
+    ],
+    "website": "https://t.me/mmmon",
+    "env": {
+        "APP_ID": {
+            "description": "ايبي ايدي",
+            "value": "27455984",
+            "required": false
+        },
+        "APP_HASH": {
+            "description": "ايبي هاش",
+            "value": "62d5f68ce2e9189636967120220f5755",
+            "required": false
+        },
+        "ADMIN": {
+            "description": "ايدي المالك",
+            "value": "",
+            "required": true
+        },
+        "TOKEN": {
+            "description": "توكن البوت",
+            "value": "",
+            "required": true
+        }
+    }
+}

@@ -1,0 +1,9 @@
+telethon
+user_agent
+requests
+sqlalchemy
+asyncio
+kvsqlite
+datetime
+time
+random
