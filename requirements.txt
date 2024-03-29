@@ -6,4 +6,4 @@ asyncio
 datetime
 time
 random
-git+https://github.com/AYMENJD/Kvsqlite
+Kvsqlite
